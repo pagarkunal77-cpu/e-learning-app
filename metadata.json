@@ -1,0 +1,6 @@
+{
+  "name": "EngiLearn - B.Tech Engineering E-Learning Portal",
+  "description": "Comprehensive engineering e-learning platform featuring semester notes, video lectures, interactive quizzes, formula sheets, and student progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
